@@ -1,6 +1,6 @@
 # vue-time-tracker
 
-> A Vue.js project
+https://scotch.io/tutorials/building-a-google-keep-clone-with-vue-and-firebase-pt-2
 
 ## Build Setup
 
